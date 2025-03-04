@@ -1,4 +1,4 @@
-module github.com/shadow1ng/fscan
+module github.com/Iceqaq/fs123
 
 go 1.20
 
